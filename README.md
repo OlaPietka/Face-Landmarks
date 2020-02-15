@@ -6,6 +6,7 @@ The 68 facial landmarks are numbered in the following form. With the points of t
 
 <p align="center">
   <img width="320" height="300" src="https://i.imgur.com/Co2CnD6.jpg">
+  <img width="320" height="300" src="https://i.imgur.com/0IVYUcx.png">
 </p>
 
 ## To-do
